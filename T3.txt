@@ -1,0 +1,17 @@
+Hypothese :les classes qui ont été modifiées plus de 10 fois
+sont mieux commentées que celles qui ont été modifiées moins de 10 fois
+
+l'experience Quasi-experiences: Un chercheur en génie logiciel a entrepris 
+de prouver que les classes qui ont été modifiées plus de 10 fois
+sont mieux commentées que celles qui ont été modifiées moins de 10 fois .Dans 
+notre etude comparative on va tester plus de 1000 classes 
+
+les etapes d'une etude empirique se compose de 6 etats:
+le choix d'etude : Quasi experiences 
+variable dependante : les resultats de l'etude sont representes 
+par les valeurs des variables dependantes
+ nombre de commentaire (DCP)
+variable independante: influencera les reusltats de L'etude
+les classes modifiées (le nombre de commit)
+
+DCP doit dependre du nombre de commit 
