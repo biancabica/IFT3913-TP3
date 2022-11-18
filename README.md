@@ -9,7 +9,7 @@ Nous avons fourni un enregistrement d'écran dans le repo comme preuve d'avoir c
 
 L'enregistrement se retrouve ici: https://github.com/biancabica/IFT3913-TP3/blob/main/Screen%20Recording%202022-11-17%20at%202.08.17%20PM.mp4
 
-Pour plus de détails sur les tests de normalité et le coefficient de corrélation, ceux-ci se retrouvent dans les fichiers nocom.py, ncloc.py, dcp.py et coefficientsperman.py.
+Pour plus de détails sur les tests de normalité et le coefficient de corrélation, ceux-ci se retrouvent dans les fichiers nocom.py, ncloc.py, dcp.py et coefficientspearman.py.
 
 Toutes les informations sont contenues dans le rapport (rapport.pdf)
 
